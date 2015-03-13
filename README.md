@@ -3,4 +3,4 @@
 
 hello everyone!
 I am Bruce.I am a newcomer for Github.
-Wish I will a good trip here.
+Wish I will have a good trip here.
